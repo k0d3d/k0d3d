@@ -83,6 +83,7 @@ Solpress Login
       <p>WP Get Code allows users to accept payments for content using Code, a mobile wallet app that leverages self-custodial blockchain technology. The plugin supports WooCommerce checkout integration, as well as content paywall integration with classic, Gutenberg, and Elementor editors.</p>
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td style="width: 480px">
       <img src="https://github.com/k0d3d/k0d3d/blob/main/holaplex_wordpress_integration.png?raw=true" style="width: 480px" />
@@ -91,6 +92,7 @@ Solpress Login
       <p>Holaplex wanted to integrate their platform, Holaplex Hub, with WordPress, so that users can easily display and sell their NFTs on their own websites. I created a custom WordPress plugin that connects Holaplex with WooCommerce, allowing users to sync their NFT collections, create product pages, and accept payments in cryptocurrency. The plugin also provides a widget that shows the user's NFT balance and a shortcode that displays the user's NFT gallery.</p>
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td>
       <img src="https://github.com/k0d3d/k0d3d/blob/main/Solpress_Pay.png?raw=true" style="width: 480px" />
@@ -98,6 +100,7 @@ Solpress Login
       <p>Solpress is a WordPress plugin that enables users to accept payments in Solana, a fast and low-cost cryptocurrency. Solpress.dev team wanted to develop a plugin to integrate with WooCommerce, so that users can sell their products and services using Solana. I created a custom WooCommerce payment gateway that connects Solpress with WooCommerce, allowing users to accept Solana payments on their WooCommerce stores.</p>
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td>
       <img src="https://github.com/k0d3d/k0d3d/blob/main/Solpress_login.png?raw=true" style="width: 480px" />
