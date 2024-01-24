@@ -25,7 +25,7 @@ Some things about me :<br/>
 :one: Indie Hacker ⌨️ <br/>
 :two: Full stack developer and IT professional with over 10 years of experience 💾.<br/>
 :three: Proficient with PHP, JavaScript, CSS and Python. 🛠️ <br/> 
-:four: Have mastered many areas of programming like Web Development and server-side programming. 🫡 <br/>
+:four: Mastering many areas of software developemnt eg. Wordpress, Structured and Non-structured Databases, Reactjs, LLMs and Diffusion Models. 🫡 <br/>
 :five: How to reach me : 💌 Twitter @kodedpxlart and Mail me at michael.rhema at gmail dot com<br/>
 :six: Ask me anything related to programming : <a href="https://github.com/k0d3d/k0d3d/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 <br />
@@ -56,3 +56,27 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+## Top Open Source -
+
+
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/v2f3cawokvubm7rpc5ff9of94)
+
+---
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/michael-rhema/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/kodedpxlart"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://medium.com/@michael.rhema"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+<a href="mailto:michael.rhema@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
