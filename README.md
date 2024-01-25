@@ -87,8 +87,7 @@ Solpress Login
   <tr>
     <td style="width: 480px">
       <img src="https://github.com/k0d3d/k0d3d/blob/main/holaplex_wordpress_integration.png?raw=true" style="width: 480px" />
-      <h3>Holaplex Hub WordPress Integration
-!Holaplex Hub WordPress Integration </h3>
+      <h3>Holaplex Hub WordPress Integration </h3>
       <p>Holaplex wanted to integrate their platform, Holaplex Hub, with WordPress, so that users can easily display and sell their NFTs on their own websites. I created a custom WordPress plugin that connects Holaplex with WooCommerce, allowing users to sync their NFT collections, create product pages, and accept payments in cryptocurrency. The plugin also provides a widget that shows the user's NFT balance and a shortcode that displays the user's NFT gallery.</p>
     </td>
   </tr>
