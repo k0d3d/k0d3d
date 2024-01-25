@@ -58,22 +58,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br/>
 
 
-
-
-WP Get Code
-!WP Get Codehttp://goldenmace.com/blog/labs/how-to-integrate-woocommerce-with-wordpress/
-
-WP Get Code is a WordPress plugin that I helped develop for Code Wallet, GetCode.com. GetCode.com is a platform that provides code snippets and tutorials for various programming languages and frameworks. WP Get Code allows me to easily create and manage code snippets on my WordPress site, using a custom post type and a code editor. The plugin also supports syntax highlighting, line numbers, copy to clipboard, and download options. WP Get Code helps me to share my code with my audience and generate revenue from ads and subscriptions.
-
-Solpress Payment Gateway
-!Solpress Payment Gatewayhttps://www.freelancer.com/projects/wordpress/wordpress-woocommerce-egypt-bank
-
-
-
-Solpress Login
-!Solpress Loginhttps://www.greengeeks.com/blog/set-up-woocommerce-wordpress-ultimate-guide/
-
-
 ## Top Open Source -
 <table>
   <tr>
