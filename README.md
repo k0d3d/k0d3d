@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: k0d3d)
 <br />
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/k0d3d?tab=repositories)
-<br /><p style="text-align: center">I am a freelance software engineer with over five years of experience in WordPress and WooCommerce development. I have helped startups and companies to build custom WooCommerce/WordPress plugins to fix problems like integration, custom payment gateway, paywalling content, and more. Here are some of my recent projects and clients: </p><br/>
+<br /><p style="text-align: center">I am a freelance software engineer with over five years of experience in building AI Assistant apps, WordPress and WooCommerce sites. I have helped startups and companies to build custom WooCommerce/WordPress plugins to fix problems like integration, custom payment gateway, paywalling content, and more. Here are some of my recent projects: </p><br/>
 Some things about me :<br/>
 :one: Indie Hacker ⌨️ <br/>
 :two: Full stack developer and IT professional with over 10 years of experience 💾.<br/>
