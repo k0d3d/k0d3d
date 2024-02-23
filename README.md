@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <tr>
     <td>
       <img src="https://github.com/k0d3d/k0d3d/blob/main/Solpress_login.png?raw=true" style="width: 480px" />
-      <h3> Solpress Web3 Login</h3>
+      <h3><a href="https://wordpress.org/plugins/solpress-login/"> Solpress Web3 Login</a></h3>
       <p>Solpress Login is another WordPress plugin that I created for Solpress.dev. Solpress Login allows users to log in to WordPress using their Solana wallet, without the need for a username and password. Solpress Login integrates with WordPress's native login system, as well as popular plugins like WooCommerce, BuddyPress, and Ultimate Member. Solpress Login provides a secure and convenient way for users to access WordPress sites using their Solana wallet.</p>
     </td>
   </tr>
